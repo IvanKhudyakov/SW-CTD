@@ -2,22 +2,16 @@
 StarWars pre-work assignment for codethedream.org
 
 The projects allows you to :
-- 
-- 
-
-It also allows user to change settings:
-- 
-- 
-- 
-
+- get the full list of SW films available via API
+- get films details
 
 # API
 Open-source API from https://www.swapi.tech/ is used in this project.
 
 
 # Prerequisites
-
 1. Node JS (https://nodejs.org/en)
+2. ParcelJS (npm install --save-dev parcel)
 
 
 # Commands
