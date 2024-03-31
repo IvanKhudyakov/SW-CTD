@@ -1,0 +1,23 @@
+{
+  "name": "starwars",
+  "version": "0.0.1",
+  "description": "StarWars pre-work assignment for CTD",
+  "scripts": {
+    "start-dev": "parcel ./src/index.html -p 8088 --open",
+    "build": "parcel build ./src/index.html --no-source-maps",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanKhudyakov/SW-CTD.git"
+  },
+  "author": "Ivan Khudziakou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanKhudyakov/SW-CTD/issues"
+  },
+  "homepage": "https://github.com/IvanKhudyakov/SW-CTD#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
